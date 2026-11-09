@@ -34,7 +34,7 @@ pip install pandas numpy openpyxl
 
 ```
 NBA Season Project/
-└── python/
+└── code/
     ├── data_loader.py
     ├── features.py
     ├── model.py
