@@ -1,0 +1,18 @@
+Season: 2023-24
+Stat: PPG
+
+Rank,Player,Team,PTS
+1,Luka Doncic,DAL-Mavericks,33.9
+2,Giannis Antetokounmpo,MIL-Bucks,30.4
+3,Shai Gilgeous-Alexander,OKC-Thunder,30.1
+4,Jalen Brunson,NYK-Knicks,28.7
+5,Kevin Durant,PHX-Suns,27.1
+5,Devin Booker,PHX-Suns,27.1
+6,Jayson Tatum,BOS-Celtics,26.9
+6,De'Aaron Fox,SAC-Kings,26.6
+7,Stephen Curry,GSW-Warriors,26.4
+7,Nikola Jokic,DEN-Nuggets,26.4
+8,Tyrese Maxey,PHI-76ers,25.9
+8,Anthony Edwards,MIN-Timberwolves,25.9
+9,Lebron James,LAL-Lakers,25.7
+10,Kyrie Irving,DAL-Mavericks,25.6

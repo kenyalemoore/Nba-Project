@@ -1,0 +1,15 @@
+Season: 2018-19
+Stat: PPG
+
+Rank,Player,Team,PTS
+1,James Harden,HOU-Rockets,36.1
+2,Paul George,OKC-Thunder,28.0
+3,Giannis Antetokounmpo,MIL-Bucks,27.7
+4,Joel Embiid,PHI-76ers,27.5
+5,Stephen Curry,GSW-Warriors,27.3
+6,Kawhi Leonard,TOR-Raptors,26.6
+7,Devin Booker,PHX-Suns,26.6
+8,Kevin Durant,GSW-Warriors,26.0
+9,Damian Lillard,POR-Trail Blazers,25.8
+10,Kemba Walker,CHA-Hornets,25.6
+10,Bradley Beal,WAS-Wizards,25.6

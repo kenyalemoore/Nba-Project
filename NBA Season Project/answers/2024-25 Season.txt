@@ -1,0 +1,14 @@
+Season: 2024-25
+Stat: PPG
+
+Rank,Player,Team,PTS
+1,Shai Gilgeous-Alexander,OKC-Thunder,32.7
+2,Giannis Antetokounmpo,MIL-Bucks,30.4
+3,Nikola Jokić,DEN-Nuggets,29.6
+4,Anthony Edwards,MIN-Timberwolves,27.6
+5,Jayson Tatum,BOS-Celtics,26.8
+6,Kevin Durant,PHO-Suns,26.6
+7,Cade Cunningham,DET-Pistons,26.1
+8,Jalen Brunson,NYK-Knicks,26.0
+9,Devin Booker,PHO-Suns,25.6
+10,Damian Lillard,MIL-Bucks,24.9

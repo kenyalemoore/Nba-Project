@@ -1,0 +1,14 @@
+Season: 2020-21
+Stat: PPG
+
+Rank,Player,Team,PTS
+1,Stephen Curry,GSW-Warriors,32.0
+2,Bradley Beal,WAS-Wizards,31.3
+3,Damian Lillard,POR-Trail Blazers,28.8
+4,Joel Embiid,PHI-76ers,28.5
+5,Giannis Antetokounmpo,MIL-Bucks,28.1
+6,Luka Doncic,DAL-Mavericks,27.7
+7,Zach LaVine,CHI-Bulls,27.4
+8,Zion Williamson,NOP-Pelicans,27.0
+9,Kyrie Irving,BKN-Nets,26.9
+10,Jayson Tatum,BCN-Celtics,26.4

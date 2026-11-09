@@ -1,0 +1,15 @@
+Season: 2021-22
+Stat: PPG
+
+Rank,Player,Team,PTS
+1,Joel Embiid,PHI-76ers,30.6
+2,Giannis Antetokounmpo,MIL-Bucks,29.9
+3,Luka Doncic,DAL-Mavericks,28.4
+3,Trae Young,ATL-Hawks,28.4
+4,DeMar DeRozan,CHI-Bulls,27.9
+5,Nikola Jokic,DEN-Nuggets,27.1
+6,Jayson Tatum,BCN-Celtics,26.9
+7,Devin Booker,PHX-Suns,26.8
+8,Donovan Mitchell,UTA-Jazz,25.9
+9,Stephen Curry,GSW-Warriors,25.5
+10,Karl-Anthony Towns,MIN-Timberwolves,24.6

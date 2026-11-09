@@ -1,0 +1,14 @@
+Season: 2022-23
+Stat: PPG
+
+Rank,Player,Team,PTS
+1,Joel Embiid,PHI-76ers,33.1
+2,Luka Doncic,DAL-Mavericks,32.4
+3,Damian Lillard,POR-Trail Blazers,32.2
+4,Shai Gilgeous-Alexander,OKC-Thunder,31.4
+5,Giannis Antetokounmpo,MIL-Bucks,31.1
+6,Jayson Tatum,BOS-Celtics,30.1
+7,Donovan Mitchell,CLE-Cavaliers,28.3
+8,Kyrie Irving,DAL-Mavericks,27.1
+9,Jaylen Brown,BOS-Celtics,26.6
+10,Trae Young,ATL-Hawks,26.2
